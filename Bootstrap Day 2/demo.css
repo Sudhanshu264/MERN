@@ -1,0 +1,10 @@
+.rounded{
+    border-radius: 16px !important;
+}
+.card{
+    border-radius: 16px !important;
+
+}
+.card-img-top{
+    border-radius: 16px 16px 0 0  ;
+}
